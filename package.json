@@ -1,0 +1,25 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NillsvanLimbeek/graphql-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NillsvanLimbeek/graphql-api/issues"
+  },
+  "homepage": "https://github.com/NillsvanLimbeek/graphql-api#readme",
+  "dependencies": {
+    "apollo-server": "^2.14.2",
+    "graphql": "^15.0.0",
+    "nodemon": "^2.0.4"
+  }
+}
